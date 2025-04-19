@@ -1,4 +1,10 @@
 # Entregas-Diarias-y-Sprint-Semanal
-Este proyecto es un chatbot de acompañamiento y autoevaluación para mujeres que sospechan estar atravesando situaciones de violencia de género. El chatbot, desarrollado en Dialogflow, ofrece una conversación empática, incluye un test de autoevaluación con preguntas claras y brinda orientación sobre qué hacer, recursos disponibles y líneas de ayuda.
+Este proyecto es un chatbot empático desarrollado con **Dialogflow ES**, diseñado para brindar apoyo a mujeres que tengan dudas sobre su relación o crean estar viviendo algún tipo de violencia. A través de una conversación natural, el bot permite:
+- Reconocer señales de violencia (física, psicológica, económica, sexual).
+- Realizar una autoevaluación sencilla mediante preguntas tipo test.
+- Ofrecer recursos de ayuda y orientación según la situación del usuario.
 
-Está pensado para ser integrado fácilmente en redes sociales en Telegram, Messenger
+El chatbot está integrado y disponible en las siguientes plataformas de mensajería:
+- **Telegram**
+- **Facebook Messenger**
+
